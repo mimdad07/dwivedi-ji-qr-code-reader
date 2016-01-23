@@ -1,0 +1,1 @@
+This is application used to scan the qr code with out using zxing lib
